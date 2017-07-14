@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M2.884,13.174c-1.53,0-2.771,1.232-2.771,2.752s1.241,2.751,2.771,2.751h21.182
+				c1.531,0,2.772-1.231,2.772-2.751s-1.241-2.752-2.772-2.752H2.884z"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#E95C1E"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_3_" d="M8.003,2.27c-1.53,0-2.772,1.231-2.772,2.751c0,1.521,1.242,2.753,2.772,2.753h21.182
+				c1.529,0,2.771-1.232,2.771-2.753c0-1.52-1.242-2.751-2.771-2.751H8.003z"/>
+		</defs>
+		<use xlink:href="#SVGID_3_"  overflow="visible" fill="#E95C1E"/>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_5_" d="M8.003,24.226c-1.53,0-2.772,1.232-2.772,2.753c0,1.519,1.242,2.752,2.772,2.752h21.182
+				c1.529,0,2.771-1.233,2.771-2.752c0-1.521-1.242-2.753-2.771-2.753H8.003z"/>
+		</defs>
+		<use xlink:href="#SVGID_5_"  overflow="visible" fill="#E95C1E"/>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  overflow="visible"/>
+		</clipPath>
+	</g>
+</g>
+</svg>

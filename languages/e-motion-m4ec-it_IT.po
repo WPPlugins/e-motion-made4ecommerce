@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: e-motion - Made4ecommerce\n"
+"POT-Creation-Date: 2017-03-17 15:51+0100\n"
+"PO-Revision-Date: 2017-03-17 16:01+0100\n"
+"Last-Translator: Gaetano Frascolla <gaetano.frascolla@gmail.com>\n"
+"Language-Team: Gaetano Frascolla <gaetano.frascolla@gmail.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: e-motion-m4ec.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/api-requests/class-wc-e_motion-api-export.php:253
+#: includes/api-requests/class-wc-e_motion-api-get_order.php:198
+msgid "Total Discount"
+msgstr "Totale Sconto"
+
+#: includes/api-requests/class-wc-e_motion-api-export.php:267
+#: includes/api-requests/class-wc-e_motion-api-get_order.php:212
+#, php-format
+msgid "Exported %s orders"
+msgstr "%s ordini esportati"
+
+#: includes/api-requests/class-wc-e_motion-api-export.php:314
+#: includes/api-requests/class-wc-e_motion-api-get_order.php:261
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/api-requests/class-wc-e_motion-api-get_order.php:218
+msgid "Invalid orderID"
+msgstr "OrderID non valido"
+
+#: includes/api-requests/class-wc-e_motion-api-notify.php:75
+msgid "Click here to print your label"
+msgstr "Clicca qui per stampare l'etichetta"
+
+#: includes/api-requests/class-wc-e_motion-api-notify.php:77
+#, php-format
+msgid "Items shipped via %s on %s with tracking number %s.<br>%s"
+msgstr "Prodotti spediti con %s il %s con numero di tracking %s.<br>%s"
+
+#: includes/api-requests/class-wc-e_motion-api-notify.php:94
+#, php-format
+msgid "Updated order %s to status %s"
+msgstr "Ordine aggiornato %s allo stato di %s"
+
+#: includes/api-requests/class-wc-e_motion-api-order_statuses.php:31
+msgid "Get order statuses"
+msgstr "Recupera stati ordine"
+
+#: includes/api-requests/class-wc-e_motion-api-payment_gateways.php:32
+msgid "Get payment gateways"
+msgstr "Recupera gateways di pagamento"
+
+#: includes/api-requests/class-wc-e_motion-api-request.php:50
+#, php-format
+msgid "Missing required param: %s"
+msgstr "Parametro richiesto mancante: %s"
+
+#: includes/class-wc-e_motion-api.php:61
+msgid "Authentication key is required"
+msgstr "Chiave di autenticazione è necessaria"
+
+#: includes/class-wc-e_motion-api.php:67
+msgid "Invalid authentication key"
+msgstr "Chiave di autenticazione non valida"
+
+#: includes/class-wc-e_motion-api.php:77
+msgid "Action is required"
+msgstr "Il parametro action è obbligatorio"
+
+#: includes/class-wc-e_motion-api.php:82
+#, php-format
+msgid "Input params: %s"
+msgstr "Parametri di input: %s"
+
+#: includes/class-wc-e_motion-api.php:88
+#, php-format
+msgid "%s is not a valid action"
+msgstr "%s non è un'azione valida"
+
+#: includes/class-wc-e_motion-integration.php:50
+msgid "e-motion "
+msgstr "e-motion"
+
+#: includes/class-wc-e_motion-integration.php:51
+msgid ""
+"e-motion allows you to retrieve orders and ship your products with ease.<br>"
+msgstr ""
+"e-motion consente di recuperare gli ordini e spedire i vostri prodotti con "
+"facilità.<br>"
+
+#: includes/class-wc-e_motion-integration.php:169
+msgid ""
+"<strong>e-motion</strong> is almost ready &#8211; Please configure the "
+"plugin to begin exporting orders."
+msgstr ""
+"<strong>e-motion</strong> è quasi pronto – si prega di configurare il plugin "
+"per iniziare l'esportazione ordini."
+
+#: includes/class-wc-e_motion-integration.php:171
+#: includes/class-wc-e_motion-integration.php:184
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/class-wc-e_motion-integration.php:184
+msgid "View e-motion Settings"
+msgstr "Impostazioni di visualizzazione e-motion"
+
+#: includes/data/data-settings.php:4
+msgid "Sandbox (only for test)"
+msgstr "Sandbox (solo per test)"
+
+#: includes/data/data-settings.php:5
+msgid "Live (production)"
+msgstr "Live (in produzione)"
+
+#: includes/data/data-settings.php:11
+msgid "Mode"
+msgstr "Modalità"
+
+#: includes/data/data-settings.php:14
+msgid "Choose between Sandbox Mode (only for test) and Live Mode (production)"
+msgstr ""
+"Scegli tra la modalità Sandbox (solo per test) e la modalità Live (in "
+"produzione)"
+
+#: includes/data/data-settings.php:19
+msgid "Api Key"
+msgstr "Chiave API"
+
+#: includes/data/data-settings.php:20
+msgid "Copy and paste your e-motion key into this field."
+msgstr "Copiare e incollare la chiave di e-motion in questo campo."
+
+#: includes/data/data-settings.php:23
+msgid ""
+"This is the <code>Auth Key</code> you have in e-motion and allows "
+"WooCommerce to communicate with your e-motion profile."
+msgstr ""
+"Questa è la <code>Username Api</code> di e-motion e permette a WooCommerce "
+"di comunicare con il tuo profilo e-motion."
+
+#: includes/data/data-settings.php:27
+msgid "Authentication Key"
+msgstr "Chiave di Autenticazione"
+
+#: includes/data/data-settings.php:28
+msgid "Copy and paste this key into e-motion during setup."
+msgstr "Copiare e incollare questa chiave in e-motion durante l'installazione."
+
+#: includes/data/data-settings.php:31
+msgid ""
+"This is the <code>Auth Key</code> you set in e-motion and allows e-motion to "
+"communicate with your store."
+msgstr ""
+"Questo è la <code>Auth Key</code> di e-motion e permette a WooCommerce di "
+"comunicare con il tuo profilo e-motion."
+
+#: includes/data/data-settings.php:38
+msgid "Logging"
+msgstr "Registrazione"
+
+#: includes/data/data-settings.php:39
+msgid "Enable Logging"
+msgstr "Abilitare i Log"
+
+#: includes/data/data-settings.php:41
+msgid "Log all API interations."
+msgstr "Registra tutti gli eventi"
+
+#. Plugin Name of the plugin/theme
+msgid "e-motion - Made4ecommerce"
+msgstr "e-motion - Made4ecommerce"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.e-motion.com/"
+msgstr "http://www.e_motion.com"
+
+#. Description of the plugin/theme
+msgid "Adds e-motion service support to your eCommerce."
+msgstr "Aggiunge il supporto di servizio di e-motion per il tuo eCommerce."
+
+#. Author of the plugin/theme
+msgid "e-motion"
+msgstr "e-motion"

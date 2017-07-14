@@ -1,0 +1,187 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: e-motion - Made4ecommerce\n"
+"POT-Creation-Date: 2017-03-17 16:02+0100\n"
+"PO-Revision-Date: 2017-03-17 16:02+0100\n"
+"Last-Translator: Gaetano Frascolla <gaetano.frascolla@gmail.com>\n"
+"Language-Team: Gaetano Frascolla <gaetano.frascolla@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: e-motion-m4ec.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/api-requests/class-wc-e_motion-api-export.php:253
+#: includes/api-requests/class-wc-e_motion-api-get_order.php:198
+msgid "Total Discount"
+msgstr ""
+
+#: includes/api-requests/class-wc-e_motion-api-export.php:267
+#: includes/api-requests/class-wc-e_motion-api-get_order.php:212
+#, php-format
+msgid "Exported %s orders"
+msgstr ""
+
+#: includes/api-requests/class-wc-e_motion-api-export.php:314
+#: includes/api-requests/class-wc-e_motion-api-get_order.php:261
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/api-requests/class-wc-e_motion-api-get_order.php:218
+msgid "Invalid orderID"
+msgstr ""
+
+#: includes/api-requests/class-wc-e_motion-api-notify.php:75
+msgid "Click here to print your label"
+msgstr ""
+
+#: includes/api-requests/class-wc-e_motion-api-notify.php:77
+#, php-format
+msgid "Items shipped via %s on %s with tracking number %s.<br>%s"
+msgstr ""
+
+#: includes/api-requests/class-wc-e_motion-api-notify.php:94
+#, php-format
+msgid "Updated order %s to status %s"
+msgstr ""
+
+#: includes/api-requests/class-wc-e_motion-api-order_statuses.php:31
+msgid "Get order statuses"
+msgstr ""
+
+#: includes/api-requests/class-wc-e_motion-api-payment_gateways.php:32
+msgid "Get payment gateways"
+msgstr ""
+
+#: includes/api-requests/class-wc-e_motion-api-request.php:50
+#, php-format
+msgid "Missing required param: %s"
+msgstr ""
+
+#: includes/class-wc-e_motion-api.php:61
+msgid "Authentication key is required"
+msgstr ""
+
+#: includes/class-wc-e_motion-api.php:67
+msgid "Invalid authentication key"
+msgstr ""
+
+#: includes/class-wc-e_motion-api.php:77
+msgid "Action is required"
+msgstr ""
+
+#: includes/class-wc-e_motion-api.php:82
+#, php-format
+msgid "Input params: %s"
+msgstr ""
+
+#: includes/class-wc-e_motion-api.php:88
+#, php-format
+msgid "%s is not a valid action"
+msgstr ""
+
+#: includes/class-wc-e_motion-integration.php:50
+msgid "e-motion "
+msgstr ""
+
+#: includes/class-wc-e_motion-integration.php:51
+msgid ""
+"e-motion allows you to retrieve orders and ship your products with ease.<br>"
+msgstr ""
+
+#: includes/class-wc-e_motion-integration.php:169
+msgid ""
+"<strong>e-motion</strong> is almost ready &#8211; Please configure the "
+"plugin to begin exporting orders."
+msgstr ""
+
+#: includes/class-wc-e_motion-integration.php:171
+#: includes/class-wc-e_motion-integration.php:184
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wc-e_motion-integration.php:184
+msgid "View e-motion Settings"
+msgstr ""
+
+#: includes/data/data-settings.php:4
+msgid "Sandbox (only for test)"
+msgstr ""
+
+#: includes/data/data-settings.php:5
+msgid "Live (production)"
+msgstr ""
+
+#: includes/data/data-settings.php:11
+msgid "Mode"
+msgstr ""
+
+#: includes/data/data-settings.php:14
+msgid "Choose between Sandbox Mode (only for test) and Live Mode (production)"
+msgstr ""
+
+#: includes/data/data-settings.php:19
+msgid "Api Key"
+msgstr ""
+
+#: includes/data/data-settings.php:20
+msgid "Copy and paste your e-motion key into this field."
+msgstr ""
+
+#: includes/data/data-settings.php:23
+msgid ""
+"This is the <code>Auth Key</code> you have in e-motion and allows "
+"WooCommerce to communicate with your e-motion profile."
+msgstr ""
+
+#: includes/data/data-settings.php:27
+msgid "Authentication Key"
+msgstr ""
+
+#: includes/data/data-settings.php:28
+msgid "Copy and paste this key into e-motion during setup."
+msgstr ""
+
+#: includes/data/data-settings.php:31
+msgid ""
+"This is the <code>Auth Key</code> you set in e-motion and allows e-motion to "
+"communicate with your store."
+msgstr ""
+
+#: includes/data/data-settings.php:38
+msgid "Logging"
+msgstr ""
+
+#: includes/data/data-settings.php:39
+msgid "Enable Logging"
+msgstr ""
+
+#: includes/data/data-settings.php:41
+msgid "Log all API interations."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "e-motion - Made4ecommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.e-motion.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds e-motion service support to your eCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "e-motion"
+msgstr ""
